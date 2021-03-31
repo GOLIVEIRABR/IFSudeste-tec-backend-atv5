@@ -1,0 +1,29 @@
+.comment{
+  background-color: lightblue;
+  margin-bottom: 20px;
+  border: lightblue;
+  border-radius: 10px;
+}
+
+.headerComment{
+  background-color: lightcoral;
+  border-radius: 10px 10px 0 0;
+  padding: 6px;
+}
+
+.contentComment{
+  padding: 10px 10px;
+}
+
+.formStyle{
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.inputGroup{
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
